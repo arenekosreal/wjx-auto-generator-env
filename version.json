@@ -1,7 +1,7 @@
 {
     "version":1.1,
     "zip_version":1.0,
-    "branch":"devel",
-    "zip_md5":"dcf2981ec68a72e206f949066ee8eedd",
-    "scr_md5":"35e04fa54fc8ce7b86148563ee568b16"
+    "branch":"raspberrypi",
+    "zip_md5":null,
+    "scr_md5":"ea225b6eca90e56300edb98f45b72a7b"
 }
